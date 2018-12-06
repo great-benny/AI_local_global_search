@@ -1,0 +1,207 @@
+< Start solution by hill-climbing ... >
+======================================
+RUN1   2018-12-03 18:33:02.086300
+======================================
+Search 1, Board Attacks: 1   Current solution is[3, 6, 1, 5, 2, 0, 7, 4]
+Search 2, Board Attacks: 0   Current solution is[4, 6, 1, 5, 2, 0, 7, 3]
+
+GOAL SUCCEED!   The solution is [4, 6, 1, 5, 2, 0, 7, 3]
+======================================
+RUN2   2018-12-03 18:33:02.092050
+======================================
+Search 1, Board Attacks: 1   Current solution is[6, 3, 0, 7, 4, 2, 5, 1]
+
+GOAL FAIL!   The current BEST solution is [6, 3, 0, 7, 4, 2, 5, 1]
+======================================
+RUN3   2018-12-03 18:33:02.095450
+======================================
+Search 1, Board Attacks: 2   Current solution is[3, 2, 5, 1, 4, 7, 0, 6]
+Search 2, Board Attacks: 1   Current solution is[0, 2, 5, 1, 4, 7, 3, 6]
+
+GOAL FAIL!   The current BEST solution is [0, 2, 5, 1, 4, 7, 3, 6]
+======================================
+RUN4   2018-12-03 18:33:02.101650
+======================================
+Search 1, Board Attacks: 1   Current solution is[4, 7, 5, 2, 6, 1, 3, 0]
+
+GOAL FAIL!   The current BEST solution is [4, 7, 5, 2, 6, 1, 3, 0]
+======================================
+RUN5   2018-12-03 18:33:02.106738
+======================================
+Search 1, Board Attacks: 1   Current solution is[6, 4, 1, 5, 0, 2, 3, 7]
+
+GOAL FAIL!   The current BEST solution is [6, 4, 1, 5, 0, 2, 3, 7]
+======================================
+RUN6   2018-12-03 18:33:02.109600
+======================================
+Search 1, Board Attacks: 1   Current solution is[5, 2, 4, 1, 7, 0, 3, 6]
+
+GOAL FAIL!   The current BEST solution is [5, 2, 4, 1, 7, 0, 3, 6]
+======================================
+RUN7   2018-12-03 18:33:02.114000
+======================================
+Search 1, Board Attacks: 1   Current solution is[7, 2, 0, 5, 4, 1, 3, 6]
+Search 2, Board Attacks: 0   Current solution is[5, 2, 0, 7, 4, 1, 3, 6]
+
+GOAL SUCCEED!   The solution is [5, 2, 0, 7, 4, 1, 3, 6]
+======================================
+RUN8   2018-12-03 18:33:02.118980
+======================================
+Search 1, Board Attacks: 0   Current solution is[1, 5, 7, 2, 0, 3, 6, 4]
+
+GOAL SUCCEED!   The solution is [1, 5, 7, 2, 0, 3, 6, 4]
+======================================
+RUN9   2018-12-03 18:33:02.122438
+======================================
+Search 1, Board Attacks: 1   Current solution is[7, 5, 4, 2, 0, 6, 3, 1]
+Search 2, Board Attacks: 0   Current solution is[7, 1, 4, 2, 0, 6, 3, 5]
+
+GOAL SUCCEED!   The solution is [7, 1, 4, 2, 0, 6, 3, 5]
+======================================
+RUN10   2018-12-03 18:33:02.127369
+======================================
+Search 1, Board Attacks: 1   Current solution is[5, 0, 6, 3, 2, 7, 1, 4]
+Search 2, Board Attacks: 0   Current solution is[5, 2, 6, 3, 0, 7, 1, 4]
+
+GOAL SUCCEED!   The solution is [5, 2, 6, 3, 0, 7, 1, 4]
+======================================
+RUN11   2018-12-03 18:33:02.130778
+======================================
+Search 1, Board Attacks: 1   Current solution is[2, 4, 5, 7, 0, 6, 3, 1]
+Search 2, Board Attacks: 0   Current solution is[2, 4, 1, 7, 0, 6, 3, 5]
+
+GOAL SUCCEED!   The solution is [2, 4, 1, 7, 0, 6, 3, 5]
+======================================
+RUN12   2018-12-03 18:33:02.135284
+======================================
+Search 1, Board Attacks: 1   Current solution is[2, 7, 1, 3, 5, 0, 6, 4]
+
+GOAL FAIL!   The current BEST solution is [2, 7, 1, 3, 5, 0, 6, 4]
+======================================
+RUN13   2018-12-03 18:33:02.139226
+======================================
+Search 1, Board Attacks: 2   Current solution is[2, 7, 4, 6, 1, 3, 5, 0]
+Search 2, Board Attacks: 1   Current solution is[7, 2, 4, 6, 1, 3, 5, 0]
+
+GOAL FAIL!   The current BEST solution is [7, 2, 4, 6, 1, 3, 5, 0]
+======================================
+RUN14   2018-12-03 18:33:02.142995
+======================================
+Search 1, Board Attacks: 2   Current solution is[0, 3, 6, 7, 1, 4, 2, 5]
+Search 2, Board Attacks: 1   Current solution is[6, 3, 0, 7, 1, 4, 2, 5]
+
+GOAL FAIL!   The current BEST solution is [6, 3, 0, 7, 1, 4, 2, 5]
+======================================
+RUN15   2018-12-03 18:33:02.146811
+======================================
+Search 1, Board Attacks: 1   Current solution is[7, 4, 1, 5, 2, 0, 6, 3]
+
+GOAL FAIL!   The current BEST solution is [7, 4, 1, 5, 2, 0, 6, 3]
+======================================
+RUN16   2018-12-03 18:33:02.148831
+======================================
+Search 1, Board Attacks: 1   Current solution is[2, 6, 3, 7, 0, 4, 5, 1]
+
+GOAL FAIL!   The current BEST solution is [2, 6, 3, 7, 0, 4, 5, 1]
+======================================
+RUN17   2018-12-03 18:33:02.151200
+======================================
+Search 1, Board Attacks: 2   Current solution is[1, 4, 5, 2, 6, 3, 0, 7]
+Search 2, Board Attacks: 1   Current solution is[4, 1, 5, 2, 6, 3, 0, 7]
+
+GOAL FAIL!   The current BEST solution is [4, 1, 5, 2, 6, 3, 0, 7]
+======================================
+RUN18   2018-12-03 18:33:02.154113
+======================================
+Search 1, Board Attacks: 0   Current solution is[2, 0, 6, 4, 7, 1, 3, 5]
+
+GOAL SUCCEED!   The solution is [2, 0, 6, 4, 7, 1, 3, 5]
+======================================
+RUN19   2018-12-03 18:33:02.157104
+======================================
+Search 1, Board Attacks: 3   Current solution is[6, 5, 1, 0, 4, 2, 7, 3]
+Search 2, Board Attacks: 1   Current solution is[0, 5, 1, 6, 4, 2, 7, 3]
+Search 3, Board Attacks: 0   Current solution is[2, 5, 1, 6, 4, 0, 7, 3]
+
+GOAL SUCCEED!   The solution is [2, 5, 1, 6, 4, 0, 7, 3]
+======================================
+RUN20   2018-12-03 18:33:02.161993
+======================================
+Search 1, Board Attacks: 2   Current solution is[3, 4, 7, 5, 0, 2, 1, 6]
+Search 2, Board Attacks: 0   Current solution is[3, 1, 7, 5, 0, 2, 4, 6]
+
+GOAL SUCCEED!   The solution is [3, 1, 7, 5, 0, 2, 4, 6]
+======================================
+RUN21   2018-12-03 18:33:02.167295
+======================================
+Search 1, Board Attacks: 0   Current solution is[3, 1, 4, 7, 5, 0, 2, 6]
+
+GOAL SUCCEED!   The solution is [3, 1, 4, 7, 5, 0, 2, 6]
+======================================
+RUN22   2018-12-03 18:33:02.171677
+======================================
+Search 1, Board Attacks: 1   Current solution is[6, 2, 7, 1, 3, 5, 0, 4]
+
+GOAL FAIL!   The current BEST solution is [6, 2, 7, 1, 3, 5, 0, 4]
+======================================
+RUN23   2018-12-03 18:33:02.173781
+======================================
+Search 1, Board Attacks: 1   Current solution is[5, 0, 2, 6, 3, 7, 4, 1]
+
+GOAL FAIL!   The current BEST solution is [5, 0, 2, 6, 3, 7, 4, 1]
+======================================
+RUN24   2018-12-03 18:33:02.176091
+======================================
+Search 1, Board Attacks: 2   Current solution is[6, 1, 2, 5, 7, 4, 0, 3]
+Search 2, Board Attacks: 0   Current solution is[1, 6, 2, 5, 7, 4, 0, 3]
+
+GOAL SUCCEED!   The solution is [1, 6, 2, 5, 7, 4, 0, 3]
+======================================
+RUN25   2018-12-03 18:33:02.179609
+======================================
+Search 1, Board Attacks: 2   Current solution is[6, 0, 7, 5, 1, 2, 4, 3]
+Search 2, Board Attacks: 1   Current solution is[4, 0, 7, 5, 1, 2, 6, 3]
+
+GOAL FAIL!   The current BEST solution is [4, 0, 7, 5, 1, 2, 6, 3]
+======================================
+RUN26   2018-12-03 18:33:02.183135
+======================================
+Search 1, Board Attacks: 2   Current solution is[3, 2, 7, 4, 6, 0, 5, 1]
+Search 2, Board Attacks: 0   Current solution is[4, 2, 7, 3, 6, 0, 5, 1]
+
+GOAL SUCCEED!   The solution is [4, 2, 7, 3, 6, 0, 5, 1]
+======================================
+RUN27   2018-12-03 18:33:02.186344
+======================================
+Search 1, Board Attacks: 5   Current solution is[7, 6, 5, 2, 4, 0, 3, 1]
+Search 2, Board Attacks: 1   Current solution is[2, 0, 5, 7, 4, 6, 3, 1]
+
+GOAL FAIL!   The current BEST solution is [2, 0, 5, 7, 4, 6, 3, 1]
+======================================
+RUN28   2018-12-03 18:33:02.189133
+======================================
+Search 1, Board Attacks: 0   Current solution is[3, 1, 4, 7, 5, 0, 2, 6]
+
+GOAL SUCCEED!   The solution is [3, 1, 4, 7, 5, 0, 2, 6]
+======================================
+RUN29   2018-12-03 18:33:02.191968
+======================================
+Search 1, Board Attacks: 2   Current solution is[4, 5, 1, 2, 7, 3, 6, 0]
+Search 2, Board Attacks: 1   Current solution is[1, 5, 4, 2, 7, 3, 6, 0]
+
+GOAL FAIL!   The current BEST solution is [1, 5, 4, 2, 7, 3, 6, 0]
+======================================
+RUN30   2018-12-03 18:33:02.194824
+======================================
+Search 1, Board Attacks: 1   Current solution is[7, 2, 4, 6, 0, 3, 5, 1]
+
+GOAL FAIL!   The current BEST solution is [7, 2, 4, 6, 0, 3, 5, 1]
+============================================================
+Begin Time: 2018-12-03 18:33:02.086300
+Finish Time: 2018-12-03 18:33:02.196786
+Total Runs: 30
+Total Success: 13
+Success Percentage: 0.43333333333333335
+Average number of steps: 1.5666666666666667
+============================================================
+>>> Total Elapsed Time: 0:00:00.110691
